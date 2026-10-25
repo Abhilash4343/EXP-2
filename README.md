@@ -61,6 +61,11 @@ Model graph:
 ![image alt](https://github.com/Abhilash4343/EXP-2/blob/2909c7ddb9a34a28af15a39a2237bd6f908b9ee8/Screenshot%202026-10-21%20210007.png)
   
 Load Characteristics:
+
+Tabulation for load test:
+
+Model graph:
+
  
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
