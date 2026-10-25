@@ -61,6 +61,7 @@ Model graph:
 ![image alt](https://github.com/Abhilash4343/EXP-2/blob/2909c7ddb9a34a28af15a39a2237bd6f908b9ee8/Screenshot%202026-10-21%20210007.png)
   
 Load Characteristics:
+![image alt](https://github.com/Abhilash4343/EXP-2/blob/0458dd287086821b0355239b490716c0fecc8623/Screenshot%202026-10-21%20212024.png)
 
 Tabulation for load test:
 
