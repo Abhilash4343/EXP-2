@@ -57,9 +57,7 @@ Open circuit characteristics:
 Tabulation for Open Circuit Test:
 ![image alt](https://github.com/Abhilash4343/EXP-2/blob/b024e5e316e1b35848313f439d8a46457d11c387/Screenshot%202026-10-21%20205955.png)
 
-
-Tabulation for Open Circuit Test:
-
+Model graph:
 
   
 Load Characteristics:
