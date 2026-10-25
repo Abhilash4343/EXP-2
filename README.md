@@ -55,6 +55,7 @@ Open circuit characteristics:
 ![image alt](https://github.com/Abhilash4343/EXP-2/blob/79e06fd0024a7d45496dd18bdbe178446d4d2228/Screenshot%202026-10-21%20205936.png)
 
 Tabulation for Open Circuit Test:
+![image alt](https://github.com/Abhilash4343/EXP-2/blob/b024e5e316e1b35848313f439d8a46457d11c387/Screenshot%202026-10-21%20205955.png)
 
 
 Tabulation for Open Circuit Test:
